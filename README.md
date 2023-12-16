@@ -30,8 +30,10 @@
 ## Authors
 
 Created by: Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh.
+<img width="374" alt="Screenshot 2023-12-15 at 11 05 02 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/1cf7ed89-2681-4c5c-8dba-5f8aa193416f">
+<img width="374" alt="Screenshot 2023-12-15 at 11 05 21 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/90f86499-af6a-418c-9e3f-879b63f8e19f">
 
 <img width="374" alt="Screenshot 2023-12-15 at 11 02 37 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/3e84fdb8-6646-414a-973d-f6d38e3e4fc0">
-<img width="379" alt="Screenshot 2023-12-15 at 11 03 03 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/d937e7ea-91e2-4552-bc7e-19ba4e66145c">
+<img width="374" alt="Screenshot 2023-12-15 at 11 03 03 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/d937e7ea-91e2-4552-bc7e-19ba4e66145c">
+<img width="374" alt="Screenshot 2023-12-15 at 11 05 38 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/28382a4d-acd1-414e-a776-afeba1cbe577">
 
-<img width="255" alt="Screenshot 2023-12-15 at 10 58 37 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/a02d9c3b-f298-4ae9-ab2e-473995eea573">
