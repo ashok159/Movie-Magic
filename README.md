@@ -29,4 +29,4 @@
 
 ## Authors
 
-Created by: Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh
+Created by: Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh.
