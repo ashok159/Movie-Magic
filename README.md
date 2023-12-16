@@ -1,5 +1,7 @@
 # Movie Magic 
 
+Created by: Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh
+
 ## Description
 - Movie Magic transforms the movie-watching experience by providing a one-stop platform for users to explore, assess, and organize their cinematic interests with ease. Whether it’s finding the latest releases, planning for upcoming favorites, or managing a watchlist, Movie Magic app caters to the diverse needs of movie enthusiasts, and amateurs
 
@@ -27,9 +29,9 @@
 - You can also remove a movie from the watchlist by clicking on the movie in your watchlist and unmarking the icon at the top right of the page.
 - After finishing adding movies to your watchlist and exploring movies, go to the watchlist page and press the logout button at the top.
 
-## Authors
 
-Created by: Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh.
+
+
 <img width="374" alt="Screenshot 2023-12-15 at 11 05 02 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/1cf7ed89-2681-4c5c-8dba-5f8aa193416f">
 <img width="374" alt="Screenshot 2023-12-15 at 11 05 21 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/90f86499-af6a-418c-9e3f-879b63f8e19f">
 
