@@ -30,3 +30,5 @@
 ## Authors
 
 Created by: Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh.
+<img width="260" alt="Screenshot 2023-12-15 at 10 58 21 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/f1259145-687a-4299-b322-9ecd4d541393">
+<img width="255" alt="Screenshot 2023-12-15 at 10 58 37 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/a02d9c3b-f298-4ae9-ab2e-473995eea573">
