@@ -7,26 +7,22 @@
 - Movie Magic transforms the movie-watching experience by providing a one-stop platform for users to explore, assess, and organize their cinematic interests with ease. Whether it’s finding the latest releases, planning for upcoming favorites, or managing a watchlist, Movie Magic app caters to the diverse needs of movie enthusiasts, and amateurs
 
 ## Tech Stack
-- Frontend:
-    - Flutter
-- Backend:
-    - Dart
-- Database:
-     - PostgreSQL
-- UI Design:
-     - Figma
+ - Frontend: Flutter
+ - Backend: Dart
+ - Database: PostgreSQL
+ - UI Design: Figma
   
 ## Running the App Locally:
 1. Prerequisites:
-- Must have Flutter downloaded on your computer.
+   - Must have Flutter downloaded on your computer.
   
 2. Steps:
-- Navigate to the directory of this project.
-- Open an emulator on either IOS or Android device.
-- Run the command
-```bash
-flutter run
-```
+   - Navigate to the directory of this project.
+   - Open an emulator on either IOS or Android device.
+   - Run the command
+    ```bash
+    flutter run
+    ```
 
 Usage
 1. Sign Up:
