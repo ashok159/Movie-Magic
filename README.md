@@ -22,7 +22,9 @@
    - Run the command
      
     ```bash
+    
     flutter run
+    
     ```
 
 ## Usage
@@ -35,24 +37,24 @@
    - Alternatively, log in using your Google account, which will automatically sign you up and direct you to the home page.
   
 3. Home Page:
-  - The home page features a search bar, a slider, a movie tabs section, and two tabs at the bottom to switch between the home page and the watchlist page.
-  - Use the search bar to find movies. It displays words similar to the entered movie.
-  - The slider showcases movies currently playing.
-  - Tabs include "Now Playing," "Upcoming," "Top Rated," and "Popular," displaying movies for each section.
+   - The home page features a search bar, a slider, a movie tabs section, and two tabs at the bottom to switch between the home page and the watchlist page.
+   - Use the search bar to find movies. It displays words similar to the entered movie.
+   - The slider showcases movies currently playing.
+   - Tabs include "Now Playing," "Upcoming," "Top Rated," and "Popular," displaying movies for each section.
 
 4. Movie Details:
-  - Clicking on a movie banner or the movie searched in the search bar directs you to the movie details page.
-  - Learn more about the movie and read reviews.
-  - Add the movie to your watchlist using the button at the top.
+   - Clicking on a movie banner or the movie searched in the search bar directs you to the movie details page.
+   - Learn more about the movie and read reviews.
+   - Add the movie to your watchlist using the button at the top.
   
 5. Watchlist Page:
-  - On the watchlist page, view your name and email along with a button to edit profile information.
-  - Edit your name and email using the "Edit Profile Information" button.
-  - The watchlist section displays movie banners, names, ratings, genres, creation years, and time durations.
-  - Remove a movie from the watchlist by clicking on the movie and unmarking the icon at the top right.
+   - On the watchlist page, view your name and email along with a button to edit profile information.
+   - Edit your name and email using the "Edit Profile Information" button.
+   - The watchlist section displays movie banners, names, ratings, genres, creation years, and time durations.
+   - Remove a movie from the watchlist by clicking on the movie and unmarking the icon at the top right.
 
 6. Logout:
-  - After adding movies to your watchlist and exploring movies, go to the watchlist page and press the logout button at the top.
+   - After adding movies to your watchlist and exploring movies, go to the watchlist page and press the logout button at the top.
 
 <img width="250" alt="Screenshot 2023-12-15 at 11 05 02 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/1cf7ed89-2681-4c5c-8dba-5f8aa193416f">
 <img width="250" alt="Screenshot 2023-12-15 at 11 08 31 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/8688c3e4-fedd-4304-b283-8ae22200a603">
