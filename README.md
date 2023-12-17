@@ -20,10 +20,8 @@
   - Navigate to the directory of this project.
   - Open an emulator on either IOS or Android device.
   - Run the command
-     
   ```bash
-  flutter run
-    
+  flutter run  
   ```
 
 ## Usage
