@@ -12,7 +12,7 @@
 - Database: PostgreSQL
 - UI Design: Figma
   
-## To run the app locally 
+## Running the App Locally:
 1. Prerequisites:
 - Must have Flutter downloaded on your computer.
   
