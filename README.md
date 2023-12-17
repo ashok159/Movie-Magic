@@ -1,37 +1,54 @@
 # Movie Magic 
 
-Created by: Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh
+# Created by: 
+- Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh
 
 ## Description
 - Movie Magic transforms the movie-watching experience by providing a one-stop platform for users to explore, assess, and organize their cinematic interests with ease. Whether it’s finding the latest releases, planning for upcoming favorites, or managing a watchlist, Movie Magic app caters to the diverse needs of movie enthusiasts, and amateurs
 
-## To run the app
+## Tech Stack
+- Frontend: Flutter
+- Backend: Dart
+- Database: PostgreSQL
+- UI Design: Figma
+  
+## To run the app locally 
+1. Prerequisites:
 - Must have Flutter downloaded on your computer.
-- Navigate to the directory of this project 
-- Open an emulator in either IOS or Android device 
-- Run the command 'flutter run"
+  
+2. Steps:
+- Navigate to the directory of this project.
+- Open an emulator on either IOS or Android device.
+- Run the command flutter run.
 
-## Usage
+Usage
+1. Sign Up:
+- Launch the app, and you will see the landing page featuring the "Movie Magic" logo and two buttons for logging in and signing up.
+- Press the sign-up button, enter your first name, last name, email, password, and confirm password. Click sign up.
+  
+2. Login:
+- You will be directed to the login page. Enter the email and password used for sign-up.
+- Alternatively, log in using your Google account, which will automatically sign you up and direct you to the home page.
+  
+3. Home Page:
+- The home page features a search bar, a slider, a movie tabs section, and two tabs at the bottom to switch between the home page and the watchlist page.
+- Use the search bar to find movies. It displays words similar to the entered movie.
+- The slider showcases movies currently playing.
+- Tabs include "Now Playing," "Upcoming," "Top Rated," and "Popular," displaying movies for each section.
 
-- When you launch the app, you will see our landing page featuring our "Movie Magic" logo and two buttons for logging in and signing up.
-- To sign up, press the sign-up button, where you will enter your first name, last name, email, password, and confirm password. After entering this information, click sign up.
-- You will be directed to our login page, where you need to enter the email and password that you used to sign up.
-- You can also log in using your Google account, which will automatically sign you up and direct you to our home page.
-- On our home page, you will find a search bar, a slider, a movie tabs section, and two tabs at the bottom of the page allowing you to switch between the home page and the watchlist page.
-- For the search bar, type in any movie, and it will display words similar to that movie.
-- The slider automatically moves, showcasing movies currently playing.
-- The tabs include "Now Playing," "Upcoming," "Top Rated," and "Popular," displaying movies for each section, which can be switched.
-- When you click on a movie banner or the movie you searched on the search bar, it will direct you to the movie details page, where you can learn more about the movie and read reviews.
-- For each movie clicked, there is a button at the top allowing you to add the movie to your watchlist, which will then be displayed on the watchlist page.
-- On the watchlist page, you can see your name and email for your account, along with a button to edit profile information
-- The edit profile information button allows you to change your name and email.
-- Below this, you will see the watchlist section with the movie banner, name, rating, genre, year created, and time duration.
-- You can also remove a movie from the watchlist by clicking on the movie in your watchlist and unmarking the icon at the top right of the page.
-- After finishing adding movies to your watchlist and exploring movies, go to the watchlist page and press the logout button at the top.
+4. Movie Details:
+- Clicking on a movie banner or the movie searched in the search bar directs you to the movie details page.
+- Learn more about the movie and read reviews.
+- Add the movie to your watchlist using the button at the top.
+  
+5. Watchlist Page:
+- On the watchlist page, view your name and email along with a button to edit profile information.
+- Edit your name and email using the "Edit Profile Information" button.
+- The watchlist section displays movie banners, names, ratings, genres, creation years, and time durations.
+- Remove a movie from the watchlist by clicking on the movie and unmarking the icon at the top right.
 
-
-
-
+6. Logout:
+- After adding movies to your watchlist and exploring movies, go to the watchlist page and press the logout button at the top.
 
 <img width="250" alt="Screenshot 2023-12-15 at 11 05 02 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/1cf7ed89-2681-4c5c-8dba-5f8aa193416f">
 <img width="250" alt="Screenshot 2023-12-15 at 11 08 31 PM" src="https://github.com/alifaiyaz1120/Movie-Magic/assets/119764873/8688c3e4-fedd-4304-b283-8ae22200a603">
