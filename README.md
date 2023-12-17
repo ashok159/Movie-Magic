@@ -13,19 +13,18 @@
  - UI Design: Figma
   
 ## Running the App Locally:
-1. Prerequisites:
-   - Must have Flutter downloaded on your computer.
-  
-2. Steps:
-   - Navigate to the directory of this project.
-   - Open an emulator on either IOS or Android device.
-   - Run the command
+- Prerequisites:
+  - Must have Flutter downloaded on your computer.
+ 
+- Steps:
+  - Navigate to the directory of this project.
+  - Open an emulator on either IOS or Android device.
+  - Run the command
      
-    ```bash
+  ```bash
+  flutter run
     
-    flutter run
-    
-    ```
+  ```
 
 ## Usage
 1. Sign Up:
