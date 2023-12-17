@@ -1,6 +1,6 @@
 # Movie Magic 
 
-# Created by: 
+## Created by: 
 - Ali Faiyaz, Hans Chaudry, Ashok Surujdeo, Ashdeep Singh
 
 ## Description
