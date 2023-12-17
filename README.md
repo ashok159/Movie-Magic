@@ -7,7 +7,7 @@
 - Movie Magic transforms the movie-watching experience by providing a one-stop platform for users to explore, assess, and organize their cinematic interests with ease. Whether it’s finding the latest releases, planning for upcoming favorites, or managing a watchlist, Movie Magic app caters to the diverse needs of movie enthusiasts, and amateurs
 
 ## Tech Stack
- - Frontend: Flutter
+ - Frontend: Dart + Flutter
  - Backend: Dart
  - Database: PostgreSQL
  - UI Design: Figma
