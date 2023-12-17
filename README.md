@@ -9,7 +9,7 @@
 ## Tech Stack
  - Frontend: Dart + Flutter
  - Backend: Dart
-    - Database: PostgreSQL
+ - Database: PostgreSQL
  - UI Design: Figma
   
 ## Running the App Locally:
